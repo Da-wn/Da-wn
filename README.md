@@ -4,11 +4,8 @@
  <a href="https://discord.gg/54uUttRWTf" target"blank_"><img src="https://img.shields.io/discord/805573119732482148?color=%237289da&label=Devotion&logo=Discord&logoColor=white&style=for-the-badge"></a>
 
 
-**EN:** Hi buddy, welcome. I don't share much on this github account. I __only share__ projects that interest me or my loved ones. I'm **manager** at a Discord Server called [Serendia Squad](https://discord.gg/5e4Eyq3M5S), if you wish, you can join us and contribute to the growth of our community. Other than that, you can reach me on Discord or Instagram. Keep in mind that some of my projects are in Polish to further improve my ancestral language, Polish.
+**EN:** Hi. My name is Tan and I'm 17.  I'm part of the developer team of [Devotion Network](https://discord.gg/54uUttRWTf). I'm not use to programming, but I love learning and improving. Watching anime, helping and inspiring others are some of my favourite activities. I'm using Discord platform for 4 years, and programming since I was 14. I used to be a subtitle translator and designer in [Akatsuki Fansub](https://akatsukisubs.com). Feel free to add me friend on Discord and ask for help. 
 
-**PL:** Cześć, witaj. Nie udostępniam zbyt wiele na tym koncie github. Dzielę się tylko projektami, które interesują __mnie lub__ moich bliskich. Jestem **upoważniony** na serwerze Discord o nazwie [Serendia Squad](https://discord.gg/5e4Eyq3M5S), jeśli chcesz, możesz dołączyć do nas i przyczynić się do rozwoju naszej społeczności. Poza tym możesz skontaktować się ze mną na Discordzie lub Instagramie. Pamiętaj, że niektóre z moich projektów są w języku polskim, aby jeszcze bardziej ulepszyć język moich przodków, polski.
-
-## 𝐏𝐞𝐰𝐧𝐞𝐠𝐨 𝐝𝐧𝐢𝐚 𝐰𝐬𝐳𝐲𝐬𝐭𝐤𝐨 𝐛ę𝐝𝐳𝐢𝐞 𝐝𝐨𝐛𝐫𝐳𝐞.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Da-wn&show_icons=true&hide_title=true&theme=react&text_color=FF9DD9)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-wn&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/Da-wn)
