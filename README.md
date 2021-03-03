@@ -9,6 +9,8 @@
 **TR:** Merhaba, adım Tan ve 17 yaşındayım. [Devotion Network](https://discord.gg/54uUttRWTf)'ün Geliştirici ekibinin bir parçasıyım. Programlama uzun süredir yaptığım bir şey değil, fakat öğrenmeyi ve kendimi geliştirmeyi seviyorum. Anime izlemek, başkalarına yardım etmek ve onlara ilham olmak yapmaktan en çok eğlendiğim aktivitelerden birkaçı. Discord platformunu 4 senedir kullanıyorum ve 14 yaşımdan beri yazılım ile uğraşıyorum. Eskiden [Akatsuki Fansub](https://akatsukisubs.com)'da tasarımcılık ve altyazı çevirmeliği
 yapmaktaydım. Discord üzerinden beni arkadaş eklemeye ve yardım istemekten çekinme.
 
+<h1> 𝐀𝐥𝐥 𝐰𝐚𝐬 𝐰𝐞𝐥𝐥 - HPDH <h1/>
+
 
 ![Dawn(y) Stats](https://github-readme-stats.vercel.app/api?username=Da-wn&show_icons=true&hide_title=true&title_color=ffffff&icon_color=ffffff&text_color=7289da&bg_color=20232a)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-wn&layout=compact&text_color=7289da&title_color=ffffff&bg_color=20232a)](https://github.com/Da-wn)
