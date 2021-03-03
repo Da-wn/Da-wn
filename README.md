@@ -13,6 +13,6 @@ yapmaktaydım. Discord üzerinden beni arkadaş eklemeye ve yardım istemekten �
 
 
 ![Dawn(y) Stats](https://github-readme-stats.vercel.app/api?username=Da-wn&show_icons=true&hide_title=true&title_color=ffffff&icon_color=ffffff&text_color=7289da&bg_color=20232a)
-![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-wn&layout=compact&text_color=7289da&title_color=ffffff&bg_color=20232a)](https://github.com/Da-wn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Da-wn&layout=compact&text_color=7289da&title_color=ffffff&bg_color=20232a)](https://github.com/Da-wn)
 
 
